@@ -4,3 +4,4 @@ pydantic
 numpy
 scikit-learn
 pandas
+mysql-connector-python
